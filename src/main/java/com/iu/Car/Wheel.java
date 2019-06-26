@@ -1,4 +1,4 @@
-package com.iu.Car;
+package com.iu.car;
 
 public class Wheel {
 
